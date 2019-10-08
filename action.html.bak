@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction()
+{
+alert("Sucessfully Sent ");
+}
+</script>
+</head>
+<body>
+
+<input type="button" onclick="myFunction()" value="Confirm" />
+
+</body>
+</html>

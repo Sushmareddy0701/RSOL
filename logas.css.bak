@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(r1.jpg);
+    background-size: cover;
+    background-position: center;
+	background-color:#42455a;
+    font-family: sans-serif;
+}
+li a {
+  color: #666;
+  }
+h1{
+    margin-top: 150px;
+    margin-left: -950px;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 43px;
+    color:green;
+}
+.login {
+text-align:center;
+display:inline-block;
+position:absolute;
+margin-left:250px;
+margin-top:50px;
+
+}
+.login1 {
+text-align:center;
+display:inline-block;
+position:absolute;
+margin-left:250px;
+margin-top:150px;
+}
+.login a{
+background-color:lightgrey;
+padding:20px;
+}
+.login1 a{
+background-color:lightgrey;
+padding:20px;
+
+}

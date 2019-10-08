@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>R "SOL"</title>
+        <link rel="stylesheet" href="r.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="menu">
+                <ul>
+                    <li class="logo"><img src="d.png"></li>
+                    <li class="active"><a href="rsol.html" class="home-btn"><span>HOME</span></a></li>
+                    <li><a href="whyrecycle.html" class="whyrecycle-btn"><span>Why To Do Recycle?</span></a></li>
+                    <li><div class="dropdown">
+                        <button class="dropbtn">Recycling Items</button>
+                        <div class="dropdown-content">
+                          <a href="clothing.html">Clothing&Textiles</a>
+                          <a href="#">Batteries</a>
+                          <a href="#">Plastic</a>
+                        </div>
+                      </div></li>
+                    <li><a href="aboutus.html" class="aboutus-btn"><span>About Us</span></a></li>
+                    <li><a href="logassignup.html" class="signup-btn"><span>Sign Up</span></a></li>
+                    <li><a href="logas.html" class="login-btn"><span>Login</span></a></li>
+                </ul>
+            </div>
+            <div class="banner">
+                <div class="app-text">
+                    <h1>Why To Do Recycle?</h1>
+                    <div><p><h3>Recycling conserves resources<h3><br>
+When we recycle, materials are converted into new products, reducing the need to consume natural resources which will help to protect natural habitats for the future.
+					<br><br><h3>Recycling reduces landfill<h3><br>
+When we recycle, recyclable materials are reprocessed into new products, and as a result the amount of rubbish sent to landfill sites decreases which reduces emissions of methane, a powerful greenhouse gas.
+<br><br><h3>Recycling saves energy<h3>
+<br>Using recycled materials in the manufacturing process uses considerably less energy than that required for producing new products from raw materials.</p>
+               </div>
+            </div>
+            <div class="social-icons">
+                <ul>
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>

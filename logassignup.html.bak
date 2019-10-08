@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Enter as</title>
+        <link rel="stylesheet" type=text/css href="logas.css">
+    </head>
+    <body>
+        <h1>SIGN UP</h1>
+        <div class="enter">
+                <li class="login" ><b><a href="signup.html">User</a></b></li>
+                <li class="login1"><b><a href="signup.html">Buyer</a></b></li>
+        </div>
+    </body>
+</html>

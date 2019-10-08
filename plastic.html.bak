@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>R "SOL"</title>
+        <link rel="stylesheet" href="r.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+		.video
+		{
+			margin-left:850px;
+		}
+		</style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="menu">
+                <ul>
+                    <li class="logo"><img src="d.png"></li>
+                    <li class="active"><a href="rsol.html" class="home-btn"><span>HOME</span></a></li>
+                    <li><a href="whyrecycle.html" class="whyrecycle-btn"><span>Why To Do Recycle?</span></a></li>
+                    <li><div class="dropdown">
+                        <button class="dropbtn">Recycling Items</button>
+                        <div class="dropdown-content">
+                          <a href="clothing.html">Clothing&Textiles</a>
+                          <a href="batteries.html">Batteries</a>
+                          <a href="plastic.html">Plastic</a>
+                        </div>
+                      </div></li>
+                    <li><a href="aboutus.html" class="aboutus-btn"><span>About Us</span></a></li>
+                    <li><a href="logassignup.html" class="signup-btn"><span>Sign Up</span></a></li>
+                    <li><a href="logas.html" class="login-btn"><span>Login</span></a></li>
+                </ul>
+            </div>
+            <div class="banner">
+                <div class="app-text">
+                    <h2>What Types of Plastic Bottles can be Recycled</h2><br>
+                    <h1 ></h1>
+                    <p><font size="+1">    All clear and coloured plastic bottles from around the home<br><br>
+Detergent and soap bottles <br> <br>Cleaning product bottles (e.g. bathroom cleaners, bleach) <br><br>
+Skin care product bottles	<br><br>
+Shampoo and shower gel bottles	<br><br>
+Fizzy and non-fizzy drinks and water bottles<br><br>	
+Milk bottles	<br><br>
+Ready-to-use plant food and pesticides bottles<br><br></font></p>
+  </div>
+            </div>
+			<br>
+	
+              
+
+            <div class="social-icons">
+                <ul>
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
